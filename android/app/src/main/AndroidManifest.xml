@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.commonground">
+    package="com.example.machinisttoolbx">
 
     <application
         android:label="Machinist Toolbox"
